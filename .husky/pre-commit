@@ -1,1 +1,2 @@
-echo 'oi'
+echo 'Checando erros no código antes do commit :)'
+npx eslint src
